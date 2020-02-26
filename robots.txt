@@ -1,0 +1,2 @@
+host: galaxycleaning.ru
+sitemap: http://galaxycleaning.ru/Sitemap.xml
